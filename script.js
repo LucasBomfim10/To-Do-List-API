@@ -136,8 +136,8 @@ function handleTaskDelete(taskId) {
   }
 }
 
-// Chame a função fetchTasks pela primeira vez para buscar as tarefas ao carregar a página
+// Chamando a função fetchTasks pela primeira vez para buscar as tarefas ao carregar a página
 fetchTasks();
 
-// Adicione o evento de envio do formulário
+// Adicionando o evento de envio do formulário
 form.addEventListener("submit", handleFormSubmit);
