@@ -87,3 +87,7 @@ Body:
 DELETE /api/tasks/:id
 ```
 
+## Captura de Tela
+
+![Screenshot 1](Capturar.PNG)
+
